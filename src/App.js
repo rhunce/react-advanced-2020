@@ -1,6 +1,6 @@
 import React from 'react';
-import Setup from './tutorial/1-useState/setup/5-useState-counter';
-// import Final from './tutorial/1-useState/final/5-useState-counter';
+import Setup from './tutorial/2-useEffect/setup/2-useEffect-cleanup.js';
+import Final from './tutorial/2-useEffect/final/2-useEffect-cleanup.js';
 
 function App() {
   return (
