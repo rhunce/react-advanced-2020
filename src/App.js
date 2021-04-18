@@ -1,6 +1,6 @@
 import React from 'react';
-import Setup from './tutorial/2-useEffect/setup/3-useEffect-fetch-data.js';
-// import Final from './tutorial/2-useEffect/final/3-useEffect-fetch-data.js';
+import Setup from './tutorial/3-conditional-rendering/setup/2-short-circuit.js';
+// import Final from './tutorial/3-conditional-rendering/final/2-short-circuit.js';
 
 function App() {
   return (
