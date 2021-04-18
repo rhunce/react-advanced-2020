@@ -1,6 +1,6 @@
 import React from 'react';
-import Setup from './tutorial/3-conditional-rendering/setup/2-short-circuit.js';
-// import Final from './tutorial/3-conditional-rendering/final/2-short-circuit.js';
+import Setup from './tutorial/3-conditional-rendering/setup/3-show-hide.js';
+// import Final from './tutorial/3-conditional-rendering/final/3-show-hide.js';
 
 function App() {
   return (
