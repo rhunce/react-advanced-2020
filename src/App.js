@@ -1,6 +1,6 @@
 import React from 'react';
-import Setup from './tutorial/9-custom-hooks/setup/1-fetch-example.js';
-// import Final from './tutorial/9-custom-hooks/final/1-fetch-example.js';
+import Setup from './tutorial/10-prop-types/setup/index.js';
+import Final from './tutorial/10-prop-types/final/index.js';
 
 function App() {
   return (
