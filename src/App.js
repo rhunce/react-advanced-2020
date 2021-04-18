@@ -1,6 +1,6 @@
 import React from 'react';
-import Setup from './tutorial/2-useEffect/setup/2-useEffect-cleanup.js';
-import Final from './tutorial/2-useEffect/final/2-useEffect-cleanup.js';
+import Setup from './tutorial/2-useEffect/setup/3-useEffect-fetch-data.js';
+// import Final from './tutorial/2-useEffect/final/3-useEffect-fetch-data.js';
 
 function App() {
   return (
