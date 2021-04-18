@@ -1,6 +1,6 @@
 import React from 'react';
-import Setup from './tutorial/5-useRef/setup/1-useRef-basics.js';
-import Final from './tutorial/5-useRef/final/1-useRef-basics.js';
+import Setup from './tutorial/6-useReducer/setup/index.js';
+// import Final from './tutorial/6-useReducer/final/index.js';
 
 function App() {
   return (
