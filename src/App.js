@@ -1,6 +1,6 @@
 import React from 'react';
-import Setup from './tutorial/6-useReducer/setup/index.js';
-// import Final from './tutorial/6-useReducer/final/index.js';
+import Setup from './tutorial/7-prop-drilling/setup/1-prop-drilling.js';
+import Final from './tutorial/7-prop-drilling/final/1-prop-drilling.js';
 
 function App() {
   return (
